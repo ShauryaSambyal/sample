@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // Function to sum n numbers
-int main() {
+
     int n, i, sum = 0, num;
     printf("Enter the number of integers to sum: ");
     scanf("%d", &n);

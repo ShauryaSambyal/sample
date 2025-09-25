@@ -12,7 +12,7 @@ unsigned long long factorial(int n) {
     return fact;
 }
 
-int main() {
+
     int num;
     std::cout << "Enter a positive integer: ";
     std::cin >> num;

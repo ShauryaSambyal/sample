@@ -11,7 +11,7 @@ public class Problems {
         int guess;
         boolean hasGuessedCorrectly = false;
 
-        System.out.println("Guess a number between 1 and 100.");
+        ("Guess a number between 1 and 100.");
 
         while (!hasGuessedCorrectly) {
             System.out.print("Enter your guess: ");

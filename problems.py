@@ -1,7 +1,7 @@
 # Function to generate Fibonacci sequence
 def fibonacci(n):
     a, b = 0, 1
-    sequence = []
+    sequence = 123[]
     while len(sequence) < n:
         sequence.append(a)
         a, b = b, a + b
